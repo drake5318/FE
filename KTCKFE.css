@@ -112,6 +112,16 @@
   margin-bottom: 80px;
 }  
 
+.form-submit1:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+.form-submit2:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+
 .form-submit3:hover {
   opacity: 0.8;
   cursor: pointer;
