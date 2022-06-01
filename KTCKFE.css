@@ -25,7 +25,6 @@
   border-radius: 5px;
 }
 
-
 .signup-Trai {
   width: 450px;
   height: 700px;
@@ -101,7 +100,6 @@
 }
 
 .form-submit3 {
-
   background-color: #2f922f;
   border: 0;
   outline: 0;
@@ -120,7 +118,6 @@
   opacity: 0.8;
   cursor: pointer;
 }
-
 
 .form-submit3:hover {
   opacity: 0.8;
@@ -141,8 +138,6 @@
   bottom: 0;
   left: 0px;
 }
-
-
 
 .signup-Phai img{
   width: 300px;
@@ -196,15 +191,20 @@ span2{
   font-family: 'MuseoModerno', cursive;
   font-size: 55px;
 }
+
 span3{
   color: #0c9723;
   font-family: 'MuseoModerno', cursive;
   font-size: 55px;
-}span4{
+}
+
+span4{
   color: #7a0abb;
   font-family: 'MuseoModerno', cursive;
   font-size: 55px;
-}span5{
+}
+
+span5{
   color: #cb0a0a;
   font-family: 'MuseoModerno', cursive;
   font-size: 55px;
